@@ -1,5 +1,0 @@
-/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-win-x64/SurvivalcraftMCP.Server.exe
-/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-win-x64/SurvivalcraftMCP.Server.dll
-/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-win-x64/SurvivalcraftMCP.Server.deps.json
-/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-win-x64/SurvivalcraftMCP.Server.runtimeconfig.json
-/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-win-x64/SurvivalcraftMCP.Server.pdb

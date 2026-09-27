@@ -1,7 +1,0 @@
-<Mod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://gitee.com/SC-SPM/SurvivalcraftApi/raw/SCAPI1.9/Survivalcraft/Content/Assets/Database.xsd">
-  <ProjectTemplate Name="Project" Guid="85023bf8-1c90-4dd1-9442-e6c13691d078">
-    <MemberSubsystemTemplate Name="McpBridge" Guid="7c3c5e4e-3c44-4f75-a0d0-4a3d5e5f2a11" InheritanceParent="fefb9590-4972-4893-b02a-76063611b745">
-      <Parameter Name="Class" Guid="2c6f0a3a-98ef-4e4a-8a34-8e6a8f0f1d91" Value="Game.SubsystemMcpBridge" Type="string"/>
-    </MemberSubsystemTemplate>
-  </ProjectTemplate>
-</Mod>

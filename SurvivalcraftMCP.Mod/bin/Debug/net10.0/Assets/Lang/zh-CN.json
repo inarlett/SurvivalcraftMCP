@@ -1,8 +1,0 @@
-{
-  "McpModLoader": {
-    "SettingsButton": "MCP 模组设置",
-    "HelpButton": "MCP 模组帮助",
-    "HelpTitle": "MCP 接入与使用",
-    "HelpText": "\nSurvivalcraft MCP Bridge 让外部 AI 客户端通过 MCP 工具读取和修改当前游戏世界。游戏内不会显示 AI 聊天界面。\n\n使用步骤：\n1. 启动生存战争并加载 Survivalcraft MCP Bridge 模组。\n2. 下载mcp服务端[[link:mcp服务端下载链接|https://file.suancaixianyu.cn/2026/09/15/23/25/SurvivalcraftMCP-Server-win-x64-release.zip]]，在 AI 客户端（例如 OpenCode）的 MCP 配置中将它配置为本地 MCP 服务，即可启用mcp服务端。(如图，可按照自己需求更改mcp配置，执行路径指向本地服务端应用程序就可以了)[[image:Assets/Images/mcp_config.png|1036|426]]\n3. 确认服务端已连接到游戏客户端后，在 AI 客户端中调用工具。游戏世界操作会由客户端模组执行。\n\n[[image:Assets/Images/connected.png|800|292]]\n\n游戏默认桥接端口：28899（本机回环地址）。如已在模组设置中修改外部端口，请让 MCP Server 使用相同端口。请勿将端口暴露到不可信网络。\n\n模组设置：从游戏设置界面的“MCP 模组设置”按钮进入模组设置列表，再选择 Survivalcraft MCP Bridge。"
-  }
-}

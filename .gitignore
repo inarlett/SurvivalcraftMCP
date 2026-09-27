@@ -3,3 +3,5 @@ release-package/
 .omx/
 SurvivalcraftTemplateModForAPI/
 SurvivalcraftTemplateModForAPI*.
+**/bin
+**/obj
