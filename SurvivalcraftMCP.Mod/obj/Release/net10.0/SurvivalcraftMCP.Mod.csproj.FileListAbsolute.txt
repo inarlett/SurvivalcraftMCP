@@ -1,0 +1,14 @@
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/Assets/Lang/en-US.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/Assets/Lang/zh-CN.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/AssetsDatabase.xdb
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/modinfo.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/SurvivalcraftMCP.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/obj/Release/net10.0/SurvivalcraftMCP.Mod.csproj.AssemblyReference.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/obj/Release/net10.0/SurvivalcraftMCP.Mod.GeneratedMSBuildEditorConfig.editorconfig
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/obj/Release/net10.0/SurvivalcraftMCP.Mod.csproj.CoreCompileInputs.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/obj/Release/net10.0/SurvivalcraftMCP.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/obj/Release/net10.0/refint/SurvivalcraftMCP.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/obj/Release/net10.0/ref/SurvivalcraftMCP.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/Assets/Images/connected.png
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/Assets/Images/mcp_config.png
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Mod/bin/Release/net10.0/icon.png

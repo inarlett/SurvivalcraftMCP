@@ -1,0 +1,15 @@
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/bin/Release/net10.0/win-x64/SurvivalcraftMCP.Server.exe
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/bin/Release/net10.0/win-x64/SurvivalcraftMCP.Server.deps.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/bin/Release/net10.0/win-x64/SurvivalcraftMCP.Server.runtimeconfig.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/bin/Release/net10.0/win-x64/SurvivalcraftMCP.Server.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/bin/Release/net10.0/win-x64/SurvivalcraftMCP.Server.pdb
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.AssemblyInfoInputs.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.AssemblyInfo.cs
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.csproj.CoreCompileInputs.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/refint/SurvivalcraftMCP.Server.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.pdb
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/SurvivalcraftMCP.Server.genruntimeconfig.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/obj/Release/net10.0/win-x64/ref/SurvivalcraftMCP.Server.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/SurvivalcraftMCP.Server/bin/Release/net10.0/win-x64/MCP-TOOLS.md

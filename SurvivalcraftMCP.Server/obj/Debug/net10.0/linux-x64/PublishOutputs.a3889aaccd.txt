@@ -1,0 +1,6 @@
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-linux-x64/SurvivalcraftMCP.Server
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-linux-x64/MCP-TOOLS.md
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-linux-x64/SurvivalcraftMCP.Server.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-linux-x64/SurvivalcraftMCP.Server.deps.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-linux-x64/SurvivalcraftMCP.Server.runtimeconfig.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/release-package/SurvivalcraftMCP.Server-linux-x64/SurvivalcraftMCP.Server.pdb

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://gitee.com/SC-SPM/SurvivalcraftApi/raw/SCAPI1.9/Survivalcraft/Content/modinfo-scheme.json",
+  "Name": "Furniture MCP Example 家具 MCP 示例模组",
+  "Version": "1.0.0",
+  "ApiVersion": "1.9.3",
+  "Description": "Example mod exposing controlled furniture creation and placement tools through Survivalcraft MCP.",
+  "ScVersion": "2.4.0.0",
+  "LoadOrder": 10001,
+  "NonPersistentMod": true,
+  "GameplayImpactLevel": "Assist",
+  "Author": "Survivalcraft MCP Example",
+  "PackageName": "survivalcraft.furniture-mcp-example",
+  "Dependencies": {
+    "SurvivalcraftMCP": "0.1.0"
+  }
+}

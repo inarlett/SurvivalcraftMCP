@@ -1,0 +1,14 @@
+{
+  "$schema": "https://gitee.com/SC-SPM/SurvivalcraftApi/raw/SCAPI1.9/Survivalcraft/Content/modinfo-scheme.json",
+  "Name": "Survivalcraft MCP Bridge",
+  "Version": "0.1.0",
+  "ApiVersion": "1.9.3",
+  "Description": "MCP bridge for exposing Survivalcraft world operations to external AI agents.",
+  "ScVersion": "2.4.0.0",
+  "LoadOrder": 10000,
+  "NonPersistentMod": true,
+  "GameplayImpactLevel": "Assist",
+  "Author": "Survivalcraft MCP",
+  "PackageName": "SurvivalcraftMCP",
+  "Dependencies": {}
+}

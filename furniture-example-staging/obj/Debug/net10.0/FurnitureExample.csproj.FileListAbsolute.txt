@@ -1,0 +1,10 @@
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/bin/Debug/net10.0/modinfo.json
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/bin/Debug/net10.0/FurnitureExample.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/bin/Debug/net10.0/FurnitureExample.pdb
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/FurnitureExample.csproj.AssemblyReference.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/FurnitureExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/FurnitureExample.csproj.CoreCompileInputs.cache
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/FurnitureExample.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/refint/FurnitureExample.dll
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/FurnitureExample.pdb
+/home/inf/repos/SurvivalcraftMCP-0.2.0-source/furniture-example-staging/obj/Debug/net10.0/ref/FurnitureExample.dll

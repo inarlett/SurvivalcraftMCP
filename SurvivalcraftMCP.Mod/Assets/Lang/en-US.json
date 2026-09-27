@@ -1,0 +1,8 @@
+{
+  "McpModLoader": {
+    "SettingsButton": "MCP Mod Settings",
+    "HelpButton": "MCP Mod Help",
+    "HelpTitle": "MCP Integration and Usage",
+    "HelpText": "\nSurvivalcraft MCP Bridge lets external AI clients read and modify the current game world through MCP tools. It does not add an in-game AI chat window.\n\nSteps:\n1. Start Survivalcraft with the Survivalcraft MCP Bridge mod enabled.\n2. [[link:download server|https://file.suancaixianyu.cn/2026/09/15/23/25/SurvivalcraftMCP-Server-win-x64-release.zip]]Start SurvivalcraftMCP.Server and configure it as a local MCP server in your AI client (for example, OpenCode).\n3. Once the server connects to the game client, invoke tools from the AI client. World operations are executed by the client mod.\n\n[[image:Assets/Images/connected.png|800|292]]\n\n[[link:Survivalcraft API source|https://gitee.com/SC-SPM/SurvivalcraftApi]]\n\nDefault game bridge port: 28899 on the local loopback interface. If you change the external port in mod settings, configure the external MCP Server with the same port. Do not expose it to untrusted networks.\n\nMod settings: Use the “MCP Mod Settings” button on the game Settings screen, then select Survivalcraft MCP Bridge."
+  }
+}
